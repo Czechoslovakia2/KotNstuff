@@ -1,4 +1,4 @@
-from .VOO import VOO
+from .VOOM import VOO
 
 
 async def setup(bot):
